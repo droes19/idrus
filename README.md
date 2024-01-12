@@ -25,3 +25,19 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+===================================================================
+
+ng new main-fe
+
+ng add schematics-scss-migrate -- see https://james-spalding.medium.com/migrate-an-existing-angular12-application-from-css-to-scss-64cc190145d0
+
+ng add primeng
+
+ng add primeflex
+
+ng add primeicons
+
+ng add roboto-fontface
+
+ng add @angular-architects/native-federation --project main-fe --port 4200 --type dynamic-host -- see https://www.angulararchitects.io/en/blog/micro-frontends-with-modern-angular-part-1-standalone-and-esbuild/

@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+$roboto-font-path: "roboto-fontface/fonts" !default;
+@import 'roboto-fontface/css/roboto/sass/roboto-fontface.scss';
+@import 'roboto-fontface/css/roboto/roboto-fontface.css';
+
+@import "primeng/resources/themes/lara-light-blue/theme.css";
+@import "primeng/resources/primeng.css";
+@import "primeflex/primeflex.scss";
+@import "primeicons/primeicons.css";
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  background-color: #fefefe;
+}
+
+a {
+  text-decoration: none;
+}
