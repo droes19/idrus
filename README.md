@@ -30,7 +30,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ng new main-fe
 
-ng add schematics-scss-migrate -- see https://james-spalding.medium.com/migrate-an-existing-angular12-application-from-css-to-scss-64cc190145d0
+ng add schematics-scss-migrate --> see https://james-spalding.medium.com/migrate-an-existing-angular12-application-from-css-to-scss-64cc190145d0
 
 ng add primeng
 
@@ -40,4 +40,4 @@ ng add primeicons
 
 ng add roboto-fontface
 
-ng add @angular-architects/native-federation --project main-fe --port 4200 --type dynamic-host -- see https://www.angulararchitects.io/en/blog/micro-frontends-with-modern-angular-part-1-standalone-and-esbuild/
+ng add @angular-architects/native-federation --project idrus --port 4200 --type dynamic-host --> see https://www.angulararchitects.io/en/blog/micro-frontends-with-modern-angular-part-1-standalone-and-esbuild/
