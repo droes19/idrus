@@ -1,0 +1,1909 @@
+{
+  "name": "",
+  "shared": [
+    {
+      "packageName": "@angular/animations",
+      "outFileName": "_angular_animations-17_0_8-dev.js",
+      "requiredVersion": "^17.0.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.0.8",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/@angular/animations/fesm2022/animations.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/animations/browser",
+      "outFileName": "_angular_animations_browser-17_0_8-dev.js",
+      "requiredVersion": "^17.0.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.0.8",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/@angular/animations/fesm2022/browser.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/common",
+      "outFileName": "_angular_common-17_0_8-dev.js",
+      "requiredVersion": "^17.0.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.0.8",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/@angular/common/fesm2022/common.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/common/http",
+      "outFileName": "_angular_common_http-17_0_8-dev.js",
+      "requiredVersion": "^17.0.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.0.8",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/@angular/common/fesm2022/http.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/compiler",
+      "outFileName": "_angular_compiler-17_0_8-dev.js",
+      "requiredVersion": "^17.0.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.0.8",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/@angular/compiler/fesm2022/compiler.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/core",
+      "outFileName": "_angular_core-17_0_8-dev.js",
+      "requiredVersion": "^17.0.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.0.8",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/@angular/core/fesm2022/core.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/core/primitives/signals",
+      "outFileName": "_angular_core_primitives_signals-17_0_8-dev.js",
+      "requiredVersion": "^17.0.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.0.8",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/@angular/core/fesm2022/primitives/signals.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/core/rxjs-interop",
+      "outFileName": "_angular_core_rxjs_interop-17_0_8-dev.js",
+      "requiredVersion": "^17.0.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.0.8",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/@angular/core/fesm2022/rxjs-interop.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/forms",
+      "outFileName": "_angular_forms-17_0_8-dev.js",
+      "requiredVersion": "^17.0.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.0.8",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/@angular/forms/fesm2022/forms.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/platform-browser",
+      "outFileName": "_angular_platform_browser-17_0_8-dev.js",
+      "requiredVersion": "^17.0.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.0.8",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/platform-browser/animations",
+      "outFileName": "_angular_platform_browser_animations-17_0_8-dev.js",
+      "requiredVersion": "^17.0.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.0.8",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/@angular/platform-browser/fesm2022/animations.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/platform-browser/animations/async",
+      "outFileName": "_angular_platform_browser_animations_async-17_0_8-dev.js",
+      "requiredVersion": "^17.0.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.0.8",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/@angular/platform-browser/fesm2022/animations/async.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/platform-browser-dynamic",
+      "outFileName": "_angular_platform_browser_dynamic-17_0_8-dev.js",
+      "requiredVersion": "^17.0.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.0.8",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/@angular/platform-browser-dynamic/fesm2022/platform-browser-dynamic.mjs"
+      }
+    },
+    {
+      "packageName": "@angular/router",
+      "outFileName": "_angular_router-17_0_8-dev.js",
+      "requiredVersion": "^17.0.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.0.8",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/@angular/router/fesm2022/router.mjs"
+      }
+    },
+    {
+      "packageName": "primeng",
+      "outFileName": "primeng-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/accordion",
+      "outFileName": "primeng_accordion-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-accordion.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/animate",
+      "outFileName": "primeng_animate-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-animate.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/autocomplete",
+      "outFileName": "primeng_autocomplete-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-autocomplete.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/animateonscroll",
+      "outFileName": "primeng_animateonscroll-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-animateonscroll.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/api",
+      "outFileName": "primeng_api-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-api.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/avatar",
+      "outFileName": "primeng_avatar-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-avatar.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/avatargroup",
+      "outFileName": "primeng_avatargroup-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-avatargroup.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/autofocus",
+      "outFileName": "primeng_autofocus-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-autofocus.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/badge",
+      "outFileName": "primeng_badge-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-badge.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/baseicon",
+      "outFileName": "primeng_baseicon-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-baseicon.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/blockui",
+      "outFileName": "primeng_blockui-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-blockui.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/breadcrumb",
+      "outFileName": "primeng_breadcrumb-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-breadcrumb.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/button",
+      "outFileName": "primeng_button-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-button.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/calendar",
+      "outFileName": "primeng_calendar-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-calendar.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/card",
+      "outFileName": "primeng_card-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-card.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/carousel",
+      "outFileName": "primeng_carousel-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-carousel.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/cascadeselect",
+      "outFileName": "primeng_cascadeselect-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-cascadeselect.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/chart",
+      "outFileName": "primeng_chart-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-chart.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/checkbox",
+      "outFileName": "primeng_checkbox-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-checkbox.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/chip",
+      "outFileName": "primeng_chip-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-chip.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/chips",
+      "outFileName": "primeng_chips-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-chips.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/colorpicker",
+      "outFileName": "primeng_colorpicker-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-colorpicker.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/confirmdialog",
+      "outFileName": "primeng_confirmdialog-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-confirmdialog.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/confirmpopup",
+      "outFileName": "primeng_confirmpopup-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-confirmpopup.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/contextmenu",
+      "outFileName": "primeng_contextmenu-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-contextmenu.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/dataview",
+      "outFileName": "primeng_dataview-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-dataview.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/defer",
+      "outFileName": "primeng_defer-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-defer.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/dialog",
+      "outFileName": "primeng_dialog-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-dialog.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/divider",
+      "outFileName": "primeng_divider-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-divider.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/dock",
+      "outFileName": "primeng_dock-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-dock.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/dom",
+      "outFileName": "primeng_dom-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-dom.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/dragdrop",
+      "outFileName": "primeng_dragdrop-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-dragdrop.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/dropdown",
+      "outFileName": "primeng_dropdown-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-dropdown.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/dynamicdialog",
+      "outFileName": "primeng_dynamicdialog-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-dynamicdialog.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/editor",
+      "outFileName": "primeng_editor-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-editor.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/fileupload",
+      "outFileName": "primeng_fileupload-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-fileupload.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/fieldset",
+      "outFileName": "primeng_fieldset-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-fieldset.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/focustrap",
+      "outFileName": "primeng_focustrap-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-focustrap.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/galleria",
+      "outFileName": "primeng_galleria-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-galleria.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/image",
+      "outFileName": "primeng_image-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-image.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/inputgroup",
+      "outFileName": "primeng_inputgroup-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-inputgroup.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/inplace",
+      "outFileName": "primeng_inplace-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-inplace.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/inputgroupaddon",
+      "outFileName": "primeng_inputgroupaddon-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-inputgroupaddon.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/inputmask",
+      "outFileName": "primeng_inputmask-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-inputmask.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/inputnumber",
+      "outFileName": "primeng_inputnumber-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-inputnumber.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/inputswitch",
+      "outFileName": "primeng_inputswitch-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-inputswitch.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/inputtext",
+      "outFileName": "primeng_inputtext-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-inputtext.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/inputtextarea",
+      "outFileName": "primeng_inputtextarea-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-inputtextarea.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/keyfilter",
+      "outFileName": "primeng_keyfilter-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-keyfilter.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/knob",
+      "outFileName": "primeng_knob-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-knob.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/listbox",
+      "outFileName": "primeng_listbox-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-listbox.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/megamenu",
+      "outFileName": "primeng_megamenu-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-megamenu.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/menu",
+      "outFileName": "primeng_menu-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-menu.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/menubar",
+      "outFileName": "primeng_menubar-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-menubar.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/message",
+      "outFileName": "primeng_message-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-message.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/messages",
+      "outFileName": "primeng_messages-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-messages.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/multiselect",
+      "outFileName": "primeng_multiselect-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-multiselect.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/orderlist",
+      "outFileName": "primeng_orderlist-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-orderlist.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/organizationchart",
+      "outFileName": "primeng_organizationchart-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-organizationchart.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/overlay",
+      "outFileName": "primeng_overlay-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-overlay.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/overlaypanel",
+      "outFileName": "primeng_overlaypanel-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-overlaypanel.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/paginator",
+      "outFileName": "primeng_paginator-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-paginator.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/panel",
+      "outFileName": "primeng_panel-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-panel.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/panelmenu",
+      "outFileName": "primeng_panelmenu-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-panelmenu.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/password",
+      "outFileName": "primeng_password-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-password.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/picklist",
+      "outFileName": "primeng_picklist-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-picklist.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/progressbar",
+      "outFileName": "primeng_progressbar-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-progressbar.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/progressspinner",
+      "outFileName": "primeng_progressspinner-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-progressspinner.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/radiobutton",
+      "outFileName": "primeng_radiobutton-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-radiobutton.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/rating",
+      "outFileName": "primeng_rating-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-rating.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/ripple",
+      "outFileName": "primeng_ripple-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-ripple.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/scroller",
+      "outFileName": "primeng_scroller-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-scroller.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/scrollpanel",
+      "outFileName": "primeng_scrollpanel-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-scrollpanel.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/scrolltop",
+      "outFileName": "primeng_scrolltop-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-scrolltop.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/selectbutton",
+      "outFileName": "primeng_selectbutton-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-selectbutton.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/sidebar",
+      "outFileName": "primeng_sidebar-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-sidebar.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/skeleton",
+      "outFileName": "primeng_skeleton-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-skeleton.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/slidemenu",
+      "outFileName": "primeng_slidemenu-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-slidemenu.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/slider",
+      "outFileName": "primeng_slider-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-slider.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/speeddial",
+      "outFileName": "primeng_speeddial-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-speeddial.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/spinner",
+      "outFileName": "primeng_spinner-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-spinner.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/splitbutton",
+      "outFileName": "primeng_splitbutton-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-splitbutton.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/splitter",
+      "outFileName": "primeng_splitter-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-splitter.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/steps",
+      "outFileName": "primeng_steps-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-steps.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/styleclass",
+      "outFileName": "primeng_styleclass-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-styleclass.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/table",
+      "outFileName": "primeng_table-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-table.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/tabmenu",
+      "outFileName": "primeng_tabmenu-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-tabmenu.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/tabview",
+      "outFileName": "primeng_tabview-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-tabview.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/tag",
+      "outFileName": "primeng_tag-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-tag.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/terminal",
+      "outFileName": "primeng_terminal-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-terminal.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/tieredmenu",
+      "outFileName": "primeng_tieredmenu-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-tieredmenu.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/timeline",
+      "outFileName": "primeng_timeline-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-timeline.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/toast",
+      "outFileName": "primeng_toast-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-toast.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/togglebutton",
+      "outFileName": "primeng_togglebutton-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-togglebutton.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/toolbar",
+      "outFileName": "primeng_toolbar-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-toolbar.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/tooltip",
+      "outFileName": "primeng_tooltip-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-tooltip.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/tree",
+      "outFileName": "primeng_tree-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-tree.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/treeselect",
+      "outFileName": "primeng_treeselect-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-treeselect.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/treetable",
+      "outFileName": "primeng_treetable-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-treetable.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/tristatecheckbox",
+      "outFileName": "primeng_tristatecheckbox-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-tristatecheckbox.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/ts-helpers",
+      "outFileName": "primeng_ts_helpers-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-ts-helpers.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/utils",
+      "outFileName": "primeng_utils-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-utils.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/virtualscroller",
+      "outFileName": "primeng_virtualscroller-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-virtualscroller.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/angledoubledown",
+      "outFileName": "primeng_icons_angledoubledown-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-angledoubledown.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/angledoubleleft",
+      "outFileName": "primeng_icons_angledoubleleft-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-angledoubleleft.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/angledoubleright",
+      "outFileName": "primeng_icons_angledoubleright-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-angledoubleright.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/angledoubleup",
+      "outFileName": "primeng_icons_angledoubleup-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-angledoubleup.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/angledown",
+      "outFileName": "primeng_icons_angledown-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-angledown.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/angleleft",
+      "outFileName": "primeng_icons_angleleft-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-angleleft.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/angleright",
+      "outFileName": "primeng_icons_angleright-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-angleright.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/angleup",
+      "outFileName": "primeng_icons_angleup-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-angleup.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/arrowdown",
+      "outFileName": "primeng_icons_arrowdown-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-arrowdown.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/arrowdownleft",
+      "outFileName": "primeng_icons_arrowdownleft-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-arrowdownleft.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/arrowdownright",
+      "outFileName": "primeng_icons_arrowdownright-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-arrowdownright.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/arrowleft",
+      "outFileName": "primeng_icons_arrowleft-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-arrowleft.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/arrowright",
+      "outFileName": "primeng_icons_arrowright-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-arrowright.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/arrowup",
+      "outFileName": "primeng_icons_arrowup-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-arrowup.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/ban",
+      "outFileName": "primeng_icons_ban-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-ban.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/bars",
+      "outFileName": "primeng_icons_bars-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-bars.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/calendar",
+      "outFileName": "primeng_icons_calendar-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-calendar.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/caretleft",
+      "outFileName": "primeng_icons_caretleft-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-caretleft.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/caretright",
+      "outFileName": "primeng_icons_caretright-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-caretright.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/check",
+      "outFileName": "primeng_icons_check-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-check.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/chevrondown",
+      "outFileName": "primeng_icons_chevrondown-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-chevrondown.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/chevronleft",
+      "outFileName": "primeng_icons_chevronleft-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-chevronleft.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/chevronright",
+      "outFileName": "primeng_icons_chevronright-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-chevronright.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/chevronup",
+      "outFileName": "primeng_icons_chevronup-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-chevronup.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/exclamationtriangle",
+      "outFileName": "primeng_icons_exclamationtriangle-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-exclamationtriangle.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/eye",
+      "outFileName": "primeng_icons_eye-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-eye.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/eyeslash",
+      "outFileName": "primeng_icons_eyeslash-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-eyeslash.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/filter",
+      "outFileName": "primeng_icons_filter-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-filter.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/filterslash",
+      "outFileName": "primeng_icons_filterslash-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-filterslash.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/home",
+      "outFileName": "primeng_icons_home-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-home.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/infocircle",
+      "outFileName": "primeng_icons_infocircle-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-infocircle.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/minus",
+      "outFileName": "primeng_icons_minus-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-minus.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/pencil",
+      "outFileName": "primeng_icons_pencil-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-pencil.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/plus",
+      "outFileName": "primeng_icons_plus-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-plus.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/refresh",
+      "outFileName": "primeng_icons_refresh-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-refresh.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/search",
+      "outFileName": "primeng_icons_search-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-search.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/searchminus",
+      "outFileName": "primeng_icons_searchminus-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-searchminus.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/searchplus",
+      "outFileName": "primeng_icons_searchplus-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-searchplus.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/sortalt",
+      "outFileName": "primeng_icons_sortalt-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-sortalt.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/sortamountdown",
+      "outFileName": "primeng_icons_sortamountdown-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-sortamountdown.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/sortamountupalt",
+      "outFileName": "primeng_icons_sortamountupalt-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-sortamountupalt.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/spinner",
+      "outFileName": "primeng_icons_spinner-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-spinner.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/star",
+      "outFileName": "primeng_icons_star-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-star.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/starfill",
+      "outFileName": "primeng_icons_starfill-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-starfill.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/thlarge",
+      "outFileName": "primeng_icons_thlarge-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-thlarge.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/times",
+      "outFileName": "primeng_icons_times-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-times.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/timescircle",
+      "outFileName": "primeng_icons_timescircle-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-timescircle.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/trash",
+      "outFileName": "primeng_icons_trash-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-trash.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/undo",
+      "outFileName": "primeng_icons_undo-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-undo.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/upload",
+      "outFileName": "primeng_icons_upload-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-upload.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/windowmaximize",
+      "outFileName": "primeng_icons_windowmaximize-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-windowmaximize.mjs"
+      }
+    },
+    {
+      "packageName": "primeng/icons/windowminimize",
+      "outFileName": "primeng_icons_windowminimize-17_3_2-dev.js",
+      "requiredVersion": "^17.3.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "17.3.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/primeng/fesm2022/primeng-icons-windowminimize.mjs"
+      }
+    },
+    {
+      "packageName": "rxjs",
+      "outFileName": "rxjs-7_8_1-dev.js",
+      "requiredVersion": "~7.8.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "7.8.1",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/rxjs/dist/esm5/index.js"
+      }
+    },
+    {
+      "packageName": "rxjs/operators",
+      "outFileName": "rxjs_operators-7_8_1-dev.js",
+      "requiredVersion": "~7.8.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "7.8.1",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/rxjs/dist/esm5/operators/index.js"
+      }
+    },
+    {
+      "packageName": "tslib",
+      "outFileName": "tslib-2_6_2-dev.js",
+      "requiredVersion": "^2.3.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "2.6.2",
+      "dev": {
+        "entryPoint": "C:/Projects/idrus/github/idrus/node_modules/tslib/tslib.es6.mjs"
+      }
+    }
+  ],
+  "exposes": []
+}
