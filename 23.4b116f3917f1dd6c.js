@@ -1,0 +1,1 @@
+(self.webpackChunkidrus=self.webpackChunkidrus||[]).push([[23],{23:(d,o,n)=>{n.r(o),n.d(o,{homeRoutes:()=>h});const h=[{path:"",loadComponent:()=>n.e(225).then(n.bind(n,4225)).then(s=>s.DashboardComponent)}]}}]);
