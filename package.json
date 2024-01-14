@@ -3,11 +3,11 @@
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
+    "start": "ng serve --configuration development",
     "build": "ng build --configuration production --base-href https://droes19.github.io/idrus/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "upgit": "ngh --dir=dist/browser",
+    "upgit": "ngh --dir=dist/",
     "run:all": "node node_modules/@angular-architects/module-federation/src/server/mf-dev-server.js"
   },
   "private": true,

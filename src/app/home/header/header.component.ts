@@ -9,7 +9,7 @@ import { MenubarModule } from 'primeng/menubar';
   templateUrl: './header.component.html',
   styleUrl: './header.component.scss'
 })
-export class HeaderComponent implements OnInit{
+export class HeaderComponent implements OnInit {
 
   menuItems: MenuItem[] = [];
 
@@ -21,13 +21,13 @@ export class HeaderComponent implements OnInit{
       icon: PrimeIcons.HOME,
       styleClass: 'menuitem'
     },
-    // {
-    //   id: 'angular',
-    //   label: 'MicroFrontend Angular',
-    //   routerLink: 'mf-angular',
-    //   // icon: PrimeIcons.HOME,
-    //   styleClass: 'menuitem'
-    // }
+      {
+        id: 'angular',
+        label: 'MicroFrontend Angular',
+        routerLink: 'mf-angular',
+        // icon: PrimeIcons.HOME,
+        styleClass: 'menuitem'
+      }
     )
     // let auth = JSON.parse(localStorage.getItem('auth') || '')
     // // if (auth.menu) {
