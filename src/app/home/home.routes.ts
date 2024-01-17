@@ -1,28 +1,56 @@
 
 import { loadRemoteModule } from "@angular-architects/module-federation";
-import { Routes } from "@angular/router";
+import { Route, Routes } from "@angular/router";
 import { environment } from "../../environments/environment";
+import { authGuard } from "../shared/guard/auth.guard";
 
 export const homeRoutes: Routes = [
-    // {
-    //     path:'',
-    //     loadComponent: () => import('../home/home.component').then(m => m.HomeComponent)
-    // },
     {
         path: '',
         loadComponent: () => import('../dashboard/dashboard.component').then(m => m.DashboardComponent)
     },
+    // {
+    //     path: 'mf-angular',
+    //     loadChildren: () =>
+    //         loadRemoteModule({
+    //             type: 'module',
+    //             remoteEntry: `http://${environment.mfe.angular}/remoteEntry.js`,
+    //             exposedModule: './mfaRoutes'
+    //         })
+    //             .then(m => m['APP_ROUTES']),
+    //     canActivate: [authGuard]
+    // },
+    ...listRoutesFromEnv(),
     {
-        path: 'mf-angular',
-        //     // loadComponent: () => import('mf-angular/homeComponent').then(m => m.HomeComponent)
-        //     // loadComponent: () => loadRemoteModule('mf-angular', './Component').then(m => m.AppComponent)
-        // loadComponent: () => loadRemoteModule('mf-angular', './HomeComponent').then(m => m.HomeComponent)
-        loadChildren: () =>
-            loadRemoteModule({
-                type: 'module',
-                remoteEntry: `http://${environment.mfe.angular}/remoteEntry.js`,
-                exposedModule: './mfaRoutes'
-            })
-                .then(m => m.routes)
-    },
+        path: 'about',
+        loadComponent: () => import("../shared/component/about/about.component").then(m => m.AboutComponent)
+    }
 ]
+
+function listRoutesFromEnv() {
+    let listEnvRoutes = environment.mfe;
+    let customRoutes: Routes = []
+    listEnvRoutes.forEach((x) => {
+        if (x.type === 'angular') {
+            customRoutes.push(routeTypeAngular(x))
+        }
+    })
+    return customRoutes
+}
+
+function routeTypeAngular(x: any) {
+    let route: Route = {}
+    if (x.remoteType === 'module') {
+        route = {
+            path: x.routerLink,
+            loadChildren: () => loadRemoteModule({
+                type: 'module',
+                remoteEntry: x.url + "/" + x.remoteEntry,
+                exposedModule: x.exposedModule
+            })
+                .then(m => m[x.exportedModule]),
+            canActivate: [authGuard]
+        }
+    }
+    return route
+}

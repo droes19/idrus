@@ -1,0 +1,8 @@
+:host ::ng-deep {
+  .error-message {
+    display: flex;
+    width: initial;
+    height: 20px;
+    justify-content: flex-end;
+  }
+}

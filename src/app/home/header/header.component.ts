@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { MenuItem, PrimeIcons } from 'primeng/api';
 import { MenubarModule } from 'primeng/menubar';
+import { environment } from '../../../environments/environment';
 
 @Component({
   selector: 'app-header',
@@ -14,21 +15,22 @@ export class HeaderComponent implements OnInit {
   menuItems: MenuItem[] = [];
 
   ngOnInit() {
-    this.menuItems.push({
-      id: 'home',
-      label: 'Home',
-      routerLink: '/',
-      icon: PrimeIcons.HOME,
-      styleClass: 'menuitem'
-    },
+    this.menuItems.push(
       {
-        id: 'angular',
-        label: 'MicroFrontend Angular',
-        routerLink: 'mf-angular',
-        // icon: PrimeIcons.HOME,
+        id: 'home',
+        label: 'Home',
+        routerLink: '/',
         styleClass: 'menuitem'
-      }
+      },
+      // {
+      //   id: 'angular',
+      //   label: 'MicroFrontend Angular',
+      //   routerLink: 'mf-angular',
+      //   // icon: PrimeIcons.HOME,
+      //   styleClass: 'menuitem'
+      // }
     )
+    this.customMenu()
     // let auth = JSON.parse(localStorage.getItem('auth') || '')
     // // if (auth.menu) {
     // //   this.menuItems.push(...auth.menu);
@@ -48,10 +50,31 @@ export class HeaderComponent implements OnInit {
     //   }]
     // }
     // this.menuItems.push(menuProfile)
+    let about: MenuItem = {
+      id: 'about',
+      label: 'About',
+      styleClass: 'menuitem ml-auto',
+      routerLink: 'about'
+    }
+    this.menuItems.push(about)
   }
 
   doLogout() {
     alert("logout")
     // this.loginService.doLogout()
+  }
+
+  customMenu() {
+    let listMenuFromEnv = environment.mfe;
+    listMenuFromEnv.forEach((x) => {
+      if (x.asMenu) {
+        this.menuItems.push({
+          id: x.id,
+          label: x.label,
+          routerLink: x.routerLink,
+          styleClass: x.styleClass
+        })
+      }
+    })
   }
 }

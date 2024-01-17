@@ -1,0 +1,17 @@
+<!-- <div> -->
+<form class="flex flex-column gap-2" [formGroup]="fg">
+    <label for="email">Email</label>
+    <input pInputText id="email" type="email" formControlName="email" [autocomplete]="false" />
+    <validation-message class="mr-auto" [control]="emailForm"></validation-message>
+    <div class="flex gap-2">
+        <p-button type="button" (click)="submitEmail()">Submit</p-button>
+        <p-button (click)="cancel()">Cancel</p-button>
+    </div>
+    <div>
+        <span>nb:</span><br />
+        <!-- TODO: <span>- full access will send to email</span> -->
+        <span>- valid email not required yet</span><br />
+        <span>- just try to random fill with email patterns</span><br />
+    </div>
+</form>
+<!-- </div> -->

@@ -1,1 +1,9 @@
-<p>This is dashboard main/host micro frontend</p>
+<p-card styleClass="w-full h-full">
+    <div class="flex flex-column gap-5">
+        <span>Web Application</span>
+        <div class="flex gap-2">
+            <p-button (click)="getAccess()">Get Access</p-button>
+            <p-button *ngIf="haveAccess" (click)="removeAccess()">Remove Access</p-button>
+        </div>
+    </div>
+</p-card>
